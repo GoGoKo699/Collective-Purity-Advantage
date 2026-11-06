@@ -205,9 +205,9 @@ Taking $`C=4096`$ gives the explicit circuit risk
  \lt 0.132\lt \frac16.
 ```
 
-The separate error probabilities also obey
-$`\alpha\le128/(3C^2)+1/50`$ and
-$`\beta\le512/(3C^2)+2/9+1/50\lt 1/3`$.
+The false-positive probability $`p_0`$ under $`H_0`$ and the Haar-average false-negative probability $`p_1`$ under $`H_1`$ obey
+$`p_0\le128/(3C^2)+1/50`$ and
+$`p_1\le512/(3C^2)+2/9+1/50\lt 1/3`$.
 Thus the same cutoff $`n_0(\eta)`$ suffices, and a constant-factor increase from the ideal-readout sample coefficient preserves its copy order. If only equal-prior error below $`1/3`$ is required, $`C=1024`$ already gives
 $`R_{\rm circuit}\le5/18+320/(3\cdot1024^2)+1/50\lt 0.298`$.
 
