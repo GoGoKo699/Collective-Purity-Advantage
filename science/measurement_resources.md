@@ -6,7 +6,7 @@ Let $`d=2^n`$, let $`0\lt \eta\lt 1`$ be fixed and known, and use $`M=t_{n,\eta}
 
 ```math
  S=(1+3\eta^4)^n,\qquad A=S-1,\qquad
- M=\sqrt{\frac{d(d+1)}{A}},\qquad
+ M=\sqrt{d(d+1)/A},\qquad
  \bar\mu=\frac{A}{d+1}=\frac d{M^2}.
 ```
 
@@ -172,12 +172,12 @@ Use threshold $`t=\bar\mu/2`$, and give the sum of eigenvalue-estimation error a
 ```
 
 For $`n\ge n_0(\eta)`$, one has $`S\ge2`$ and
-$`\delta_{n,\eta}:=\operatorname{Var}_{\rm Haar}(\mu_\psi)/\bar\mu^2\le1/64`$.
+$`\delta_{n,\eta}:=\mathrm{Var}_{\rm Haar}(\mu_\psi)/\bar\mu^2\le1/64`$.
 The proven moment estimates then give, for $`m\ge CM`$,
 
 ```math
- \frac{\operatorname{Var}_0(U_m)}{\bar\mu^2}\le\frac6{C^2},\qquad
- \frac{\operatorname{Var}_1(U_m)}{\bar\mu^2}
+ \frac{\mathrm{Var}_0(U_m)}{\bar\mu^2}\le\frac6{C^2},\qquad
+ \frac{\mathrm{Var}_1(U_m)}{\bar\mu^2}
      \le\frac{24}{C^2}+\frac{64}{C}+\delta_{n,\eta}.
 ```
 
@@ -205,9 +205,9 @@ Taking $`C=4096`$ gives the explicit circuit risk
  \lt 0.132\lt \frac16.
 ```
 
-The separate error probabilities also obey
-$`\alpha\le128/(3C^2)+1/50`$ and
-$`\beta\le512/(3C^2)+2/9+1/50\lt 1/3`$.
+The false-positive probability $`p_0`$ under $`H_0`$ and the Haar-average false-negative probability $`p_1`$ under $`H_1`$ obey
+$`p_0\le128/(3C^2)+1/50`$ and
+$`p_1\le512/(3C^2)+2/9+1/50\lt 1/3`$.
 Thus the same cutoff $`n_0(\eta)`$ suffices, and a constant-factor increase from the ideal-readout sample coefficient preserves its copy order. If only equal-prior error below $`1/3`$ is required, $`C=1024`$ already gives
 $`R_{\rm circuit}\le5/18+320/(3\cdot1024^2)+1/50\lt 0.298`$.
 

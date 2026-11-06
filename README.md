@@ -46,7 +46,13 @@ Start with the [model, main theorem and endpoints](science/model.md). The [scien
 | Established methods and the precise contribution | [Related work](references/RELATED_WORK.md) and [bibliography](references/references.bib) |
 | Direct finite-matrix checks and their limits | [Verification](verification/README.md) |
 
-[The reading guide](llms.txt) maps scientific questions to their authoritative files.
+## Learn the argument
+
+The [learning route](learning/README.md) uses John Watrous's *The Theory of Quantum Information* (2018) as its educational anchor. The [source-to-project bridge](learning/BRIDGE.md) translates the relevant state-discrimination and Haar-measure foundations into this problem, beginning with a complete one-qubit example.
+
+The [30-milestone map](learning/MILESTONES.md) has 11 background/preliminaries milestones and 19 narrative/innovation milestones. It develops the measurement, its statistical guarantee and converse, and the collective-versus-pair consequence, with dependencies and direct source pointers.
+
+[The reading guide](llms.txt) maps scientific and learning questions to their authoritative files.
 
 ## Reproduce the finite checks
 

@@ -1,0 +1,601 @@
+{
+  "schema_version": 1,
+  "expressions": [
+    {
+      "path": "README.md",
+      "index": 4,
+      "source_sha256": "dbb429f5eb59cf2ac9a274220de63c8781c998d5ea7725e840cb77ac17fd31c0",
+      "required_text": [
+        "\u0398",
+        "1+3",
+        "\u03b7"
+      ]
+    },
+    {
+      "path": "science/collective_lower_bound.md",
+      "index": 1,
+      "source_sha256": "7e81e8872df512385b8ac7076a85267129410ecf792283cef3cee8f378ecfdaf",
+      "required_text": [
+        "(16)"
+      ]
+    },
+    {
+      "path": "science/collective_lower_bound.md",
+      "index": 3,
+      "source_sha256": "add3244aa9988b4144d627e29471e7659f7e11f4cd2177476588ee1387678f42",
+      "required_text": [
+        "(17)"
+      ]
+    },
+    {
+      "path": "science/collective_lower_bound.md",
+      "index": 4,
+      "source_sha256": "54dbc5ca9382af4422c73c4945c67bce56633263a93f0e2f3e92ad8219824eff",
+      "required_text": [
+        "(18)"
+      ]
+    },
+    {
+      "path": "science/collective_lower_bound.md",
+      "index": 7,
+      "source_sha256": "9ba5c8ec3cb01dba03597086d38c220b47fe887529c8f331b93505acb2736dda",
+      "required_text": [
+        "(19)"
+      ]
+    },
+    {
+      "path": "science/collective_lower_bound.md",
+      "index": 9,
+      "source_sha256": "d36884e75142f09486264a2bc62eec852532a6a40f20c8812036dbc664c36e30",
+      "required_text": [
+        "(20)"
+      ]
+    },
+    {
+      "path": "science/collective_lower_bound.md",
+      "index": 11,
+      "source_sha256": "eca648e3a6306748d1f6212657a07b7983fc7504bb757c0234ed2428b42c6df4",
+      "required_text": [
+        "(21)"
+      ]
+    },
+    {
+      "path": "science/collective_lower_bound.md",
+      "index": 15,
+      "source_sha256": "79073c6c54be87be6a2c13f053bfe9e111dc98dd7b5594ee79a7a29e1fd154d8",
+      "required_text": [
+        "(22)"
+      ]
+    },
+    {
+      "path": "science/collective_lower_bound.md",
+      "index": 17,
+      "source_sha256": "e8a955fbb621918ff8150bbc3b145953a0f7970418e2955b10e178e91b66cd1c",
+      "required_text": [
+        "(23)"
+      ]
+    },
+    {
+      "path": "science/collective_lower_bound.md",
+      "index": 21,
+      "source_sha256": "42fcff36662d33eafc3c7e5d303f7fdc6cce9ecaf9a740e5263a27d2c5af0c96",
+      "required_text": [
+        "(24)"
+      ]
+    },
+    {
+      "path": "science/collective_lower_bound.md",
+      "index": 24,
+      "source_sha256": "f80d174714ebe3f0d74bebedd3848555c6f14c0b69e435371f239e5bc0c0f929",
+      "required_text": [
+        "(25)"
+      ]
+    },
+    {
+      "path": "science/collective_lower_bound.md",
+      "index": 28,
+      "source_sha256": "22c7f7555c69e049a37f17f80a59bd209ef2d072ac7783ca535962f46cd647af",
+      "required_text": [
+        "(26)"
+      ]
+    },
+    {
+      "path": "science/collective_lower_bound.md",
+      "index": 29,
+      "source_sha256": "0be3d53567e0978980815d71954d4e697bf5c2584e9423cc168590d6e3528a72",
+      "required_text": [
+        "(27)"
+      ]
+    },
+    {
+      "path": "science/collective_lower_bound.md",
+      "index": 36,
+      "source_sha256": "97a83dacba928e732d3066036a8c90f0a5727e2e2bcaf4134e3082a5f531a3c0",
+      "required_text": [
+        "(28)"
+      ]
+    },
+    {
+      "path": "science/collective_lower_bound.md",
+      "index": 39,
+      "source_sha256": "e5bdb48c93c6281fab0c38fbfd446f1b94f23360b23cfac1ff0ca3ee231d9540",
+      "required_text": [
+        "(29)"
+      ]
+    },
+    {
+      "path": "science/collective_lower_bound.md",
+      "index": 41,
+      "source_sha256": "def1e29d87605fb5dbf504deb4dd396fe11eff736372f1a1ea7c82c9c5d9756b",
+      "required_text": [
+        "(30)"
+      ]
+    },
+    {
+      "path": "science/collective_lower_bound.md",
+      "index": 42,
+      "source_sha256": "74d4172db53096dd771e6fdccbb7d27ef112d81223e5fe137f8b5338f12e3143",
+      "required_text": [
+        "(31)"
+      ]
+    },
+    {
+      "path": "science/collective_measurement.md",
+      "index": 2,
+      "source_sha256": "240dfdc94f99e81c7e6ed5e4f5b2f663047be3b522dfb85dea26e7000ab5b5fb",
+      "required_text": [
+        "(32)"
+      ]
+    },
+    {
+      "path": "science/collective_measurement.md",
+      "index": 4,
+      "source_sha256": "265fce90d0a08ade07f7e7755561b64eb92e9fc59b06d9427080690e94e06911",
+      "required_text": [
+        "(33)"
+      ]
+    },
+    {
+      "path": "science/collective_measurement.md",
+      "index": 8,
+      "source_sha256": "b4a444bfa58493255ea188903f9bc5434310c4da326f4471798a37610bfef748",
+      "required_text": [
+        "(34)"
+      ]
+    },
+    {
+      "path": "science/collective_measurement.md",
+      "index": 11,
+      "source_sha256": "55b5e79e4d770a8b964b491cb258f0346f92bbe3bc8fe1a3670a1aa5ea4a51c9",
+      "required_text": [
+        "(35)"
+      ]
+    },
+    {
+      "path": "science/collective_measurement.md",
+      "index": 14,
+      "source_sha256": "abd30591e995eba83ab05100a63cc342ea7930f668c7c27adaf92c25a5fc87b1",
+      "required_text": [
+        "(36)"
+      ]
+    },
+    {
+      "path": "science/collective_measurement.md",
+      "index": 18,
+      "source_sha256": "99ad5d6cd9a1364155f7e35e2746d8690180f149e4e86956bdb4c76d62567204",
+      "required_text": [
+        "(37)"
+      ]
+    },
+    {
+      "path": "science/collective_measurement.md",
+      "index": 19,
+      "source_sha256": "1e57565210f1f9e07443c7825d347bcfae544e960e3dd22022b4b81dbee15ace",
+      "required_text": [
+        "(38)"
+      ]
+    },
+    {
+      "path": "science/collective_measurement.md",
+      "index": 22,
+      "source_sha256": "4b20c869d2c48ee7170d09400f138654ec88a5b745e8aa155e4e1c120835db89",
+      "required_text": [
+        "(39)"
+      ]
+    },
+    {
+      "path": "science/collective_measurement.md",
+      "index": 25,
+      "source_sha256": "d4a733c9bb4f542d7451470cc02c8828c21c6e808cf8217cfd3e66cbff1b55d1",
+      "required_text": [
+        "(64)"
+      ]
+    },
+    {
+      "path": "science/collective_measurement.md",
+      "index": 26,
+      "source_sha256": "6f76212d44444f51f63f2f6799915e4a2637fff29ccf7cf22d00144468210b8c",
+      "required_text": [
+        "(65)"
+      ]
+    },
+    {
+      "path": "science/collective_measurement.md",
+      "index": 34,
+      "source_sha256": "eac8cf56fbcb8ba332794fbc7f443cef9729adb8d563166726b0070a7d5384a1",
+      "required_text": [
+        "(66)"
+      ]
+    },
+    {
+      "path": "science/collective_measurement.md",
+      "index": 37,
+      "source_sha256": "8283102a5e4dadb4c858b2d383936a8b4eab6dbae110b4cc24d376fbbc569f3b",
+      "required_text": [
+        "(67)"
+      ]
+    },
+    {
+      "path": "science/collective_measurement.md",
+      "index": 45,
+      "source_sha256": "75616455ebd7b8d59de135d8892f9fa1c412510975a27b1267f8451d131706f7",
+      "required_text": [
+        "(68)"
+      ]
+    },
+    {
+      "path": "science/collective_measurement.md",
+      "index": 48,
+      "source_sha256": "8455fdad1b7a78d7a6260f99b73e1a9a876221b1688169f6c2086cc95c82af84",
+      "required_text": [
+        "(69)"
+      ]
+    },
+    {
+      "path": "science/haar_moments.md",
+      "index": 3,
+      "source_sha256": "c0d5ef02c74a6ab2247ecca40e15d507dc0e486e007d9b09ef1e54df780510bd",
+      "required_text": [
+        "(11)"
+      ]
+    },
+    {
+      "path": "science/haar_moments.md",
+      "index": 6,
+      "source_sha256": "fdaad025d15fd8459ac403519e74963e5d8372b94f3519efa6f39043472ac9df",
+      "required_text": [
+        "(12)"
+      ]
+    },
+    {
+      "path": "science/haar_moments.md",
+      "index": 10,
+      "source_sha256": "bea18c01ab3c0a2fc42889145942de75ae5b9d28d5deb34d6e12c741b475fee4",
+      "required_text": [
+        "(13)"
+      ]
+    },
+    {
+      "path": "science/haar_moments.md",
+      "index": 13,
+      "source_sha256": "96c3e06207feae0e20594d7c007d3662be57acbc405093356046719d696b5324",
+      "required_text": [
+        "(14)"
+      ]
+    },
+    {
+      "path": "science/haar_moments.md",
+      "index": 18,
+      "source_sha256": "3ee3624fa6828f1b8e41dc5559f475d54271aee0e310d337d0a3e3c1f6f140f8",
+      "required_text": [
+        "(15)"
+      ]
+    },
+    {
+      "path": "science/haar_moments.md",
+      "index": 19,
+      "source_sha256": "af72bbad9c7b6f7cd4ce1c0f7edd4caba813f5212293c6562e54801aa544d38f",
+      "required_text": [
+        "(40)",
+        "\u03b77"
+      ]
+    },
+    {
+      "path": "science/haar_moments.md",
+      "index": 48,
+      "source_sha256": "c21d61d12916b9766ae067c8389e1331b44514597a7404a23cc34619be3f591f",
+      "required_text": [
+        "(41)"
+      ]
+    },
+    {
+      "path": "science/haar_moments.md",
+      "index": 55,
+      "source_sha256": "b6cce3b558a843e963fc78e8af9dda2d3540a833253664d7e618255f838d41a6",
+      "required_text": [
+        "(42)"
+      ]
+    },
+    {
+      "path": "science/haar_moments.md",
+      "index": 56,
+      "source_sha256": "54ad10bc6fd093025d8e470bf5ef87a5783aea5d33738ded8c4f9d33366d5026",
+      "required_text": [
+        "(43)"
+      ]
+    },
+    {
+      "path": "science/haar_moments.md",
+      "index": 63,
+      "source_sha256": "753e56fecc708510c2f23668854387dc6d1145ca813a1c75c016616283d80f15",
+      "required_text": [
+        "(44)"
+      ]
+    },
+    {
+      "path": "science/haar_moments.md",
+      "index": 68,
+      "source_sha256": "817d19af22afa9161334b4a9388c8fab0c8817a1991d4ab322421492fb11ccda",
+      "required_text": [
+        "(45)"
+      ]
+    },
+    {
+      "path": "science/haar_moments.md",
+      "index": 70,
+      "source_sha256": "7971527909d3b600fc0b638401454bd490c4806c817ccac1baf6333ca2d77025",
+      "required_text": [
+        "(46)"
+      ]
+    },
+    {
+      "path": "science/haar_moments.md",
+      "index": 72,
+      "source_sha256": "8fcfbf5658298f7c465d073d354a4d1ce30a3af952c417a06d309ff438464134",
+      "required_text": [
+        "(47)"
+      ]
+    },
+    {
+      "path": "science/haar_moments.md",
+      "index": 78,
+      "source_sha256": "c35fdada274245118a5e9385f930beae3ea418b2f8ae2941687cb324f8ec7174",
+      "required_text": [
+        "(48)"
+      ]
+    },
+    {
+      "path": "science/haar_moments.md",
+      "index": 80,
+      "source_sha256": "fb4404e008e8b54d6ae06ac9a29429121ec40a66fed6af2a5c95f0369cf4e6c0",
+      "required_text": [
+        "(49)"
+      ]
+    },
+    {
+      "path": "science/haar_moments.md",
+      "index": 81,
+      "source_sha256": "6eed862f9bb11ec37c58655482195085a3b96a95b799e540849eba0a888396b7",
+      "required_text": [
+        "(50)"
+      ]
+    },
+    {
+      "path": "science/haar_moments.md",
+      "index": 83,
+      "source_sha256": "f4275cb74961b7a4ed89aa6cfb2683c4879c615442e415024f3a4ff16c4adefd",
+      "required_text": [
+        "(51)"
+      ]
+    },
+    {
+      "path": "science/haar_moments.md",
+      "index": 85,
+      "source_sha256": "a7e9b0e464ef17ad75f756d3aebf87c9549899e55489f1ecbdae551d9ac1cccf",
+      "required_text": [
+        "(52)"
+      ]
+    },
+    {
+      "path": "science/haar_moments.md",
+      "index": 86,
+      "source_sha256": "bd90d76d69eae975efa24fbdf6ae84e2ba1c09c1ec2011e2077e40ea4df35e3c",
+      "required_text": [
+        "(53)"
+      ]
+    },
+    {
+      "path": "science/haar_moments.md",
+      "index": 89,
+      "source_sha256": "de4dfefe806d2902f2ab67a5aeefdc6ca7b6e125e5a14251c5e27c9481c590ae",
+      "required_text": [
+        "(54)"
+      ]
+    },
+    {
+      "path": "science/haar_moments.md",
+      "index": 90,
+      "source_sha256": "6e94a435e2c1e0698bb22b2924d42fb662c512cf8429496e42a2e2288c45a14a",
+      "required_text": [
+        "\u03b77"
+      ]
+    },
+    {
+      "path": "science/haar_moments.md",
+      "index": 91,
+      "source_sha256": "4bd92c9230122ef9b30a64858d4cbf7e4ffe256eaa355cd74b46cd601047d2a0",
+      "required_text": [
+        "(55)"
+      ]
+    },
+    {
+      "path": "science/haar_moments.md",
+      "index": 92,
+      "source_sha256": "270121ec3f31fcfbff207aad35f1a806b0f14bf27a9ac5c466404431a12d6b6b",
+      "required_text": [
+        "(56)"
+      ]
+    },
+    {
+      "path": "science/haar_moments.md",
+      "index": 94,
+      "source_sha256": "30faab4279793729b762894dca02860769a6a800944449b009b177ac3bbca413",
+      "required_text": [
+        "(57)",
+        "\u03b77"
+      ]
+    },
+    {
+      "path": "science/haar_moments.md",
+      "index": 99,
+      "source_sha256": "612f5e8c1acb3b18b75561761c9c19e0272893a53e5b3369650b4f15c3364925",
+      "required_text": [
+        "(58)"
+      ]
+    },
+    {
+      "path": "science/haar_moments.md",
+      "index": 102,
+      "source_sha256": "ad890121b774568ba3b138c224eeb623e3a6394519e45c21b9d8c1f269eff49d",
+      "required_text": [
+        "(59)"
+      ]
+    },
+    {
+      "path": "science/haar_moments.md",
+      "index": 103,
+      "source_sha256": "d0c0fb3598ef367850607f9f958ace3c007851fc732ee4b2a2c6b21403cf1397",
+      "required_text": [
+        "(60)"
+      ]
+    },
+    {
+      "path": "science/haar_moments.md",
+      "index": 104,
+      "source_sha256": "c4ad58c8660fa33f6a0b0586bac8f3a1bdc455cb39418ede41b16de9e356d29e",
+      "required_text": [
+        "(61)"
+      ]
+    },
+    {
+      "path": "science/haar_moments.md",
+      "index": 106,
+      "source_sha256": "98566fd047601f31c74ddfa8bb1e683d69924313604d64e341123dc32914df83",
+      "required_text": [
+        "(62)"
+      ]
+    },
+    {
+      "path": "science/haar_moments.md",
+      "index": 108,
+      "source_sha256": "79f950d65953095853d9b2b8f2bd0b0cc580455c191acb46cd1649a73f767b33",
+      "required_text": [
+        "(63)"
+      ]
+    },
+    {
+      "path": "science/model.md",
+      "index": 12,
+      "source_sha256": "ac4f90ac8a15e7577820aa2ef40c19219debfd955422d165054aebd7544acc59",
+      "required_text": [
+        "(1)"
+      ]
+    },
+    {
+      "path": "science/model.md",
+      "index": 17,
+      "source_sha256": "52c34db405e19c4fb8e8ba774d608997940a83b01f143309a01b1869f8595ef4",
+      "required_text": [
+        "(2)"
+      ]
+    },
+    {
+      "path": "science/model.md",
+      "index": 22,
+      "source_sha256": "dc65049a28d8804d7f3ac8c4501b75d05792549d77f02c1f921ed4ed2df894e9",
+      "required_text": [
+        "(3)"
+      ]
+    },
+    {
+      "path": "science/model.md",
+      "index": 23,
+      "source_sha256": "721436a92c906a5dbf2046ecf3d4515420fe2d822807c61b05a5bdde72170e60",
+      "required_text": [
+        "(4)"
+      ]
+    },
+    {
+      "path": "science/model.md",
+      "index": 26,
+      "source_sha256": "0c5c1996008ad5ae5eb506b306b0cf994f366ae253b2cc11771bfcd2b00824d2",
+      "required_text": [
+        "(5)"
+      ]
+    },
+    {
+      "path": "science/model.md",
+      "index": 27,
+      "source_sha256": "a88c87d18d87f0933092407662f3a1332a278ac2fcd13b98cc1fc26806debd8e",
+      "required_text": [
+        "(6)"
+      ]
+    },
+    {
+      "path": "science/model.md",
+      "index": 29,
+      "source_sha256": "2d51cf58694c46be62b2ce7401ae4083be0f927eb6d69ab829aaa1c424698f20",
+      "required_text": [
+        "(7)"
+      ]
+    },
+    {
+      "path": "science/model.md",
+      "index": 30,
+      "source_sha256": "15ee436c882995a4809b62e13f9634882325eac4f84f860c794f70f04d82330e",
+      "required_text": [
+        "(8)"
+      ]
+    },
+    {
+      "path": "science/model.md",
+      "index": 31,
+      "source_sha256": "d8fa841c5f9e3c656ea9a4f2c01e44ffc89a9eb34ddd131b9e3bad00f18095fe",
+      "required_text": [
+        "(9)"
+      ]
+    },
+    {
+      "path": "science/model.md",
+      "index": 33,
+      "source_sha256": "e61274274141c3ad326b610460fad204b241c93c1c93200059079e0e926b2011",
+      "required_text": [
+        "(10)"
+      ]
+    },
+    {
+      "path": "science/model.md",
+      "index": 38,
+      "source_sha256": "320a595b8331426abd74eb25623f8842822348c82f16f03d4946cb340dd178b6",
+      "required_text": [
+        "(70)"
+      ]
+    },
+    {
+      "path": "science/model.md",
+      "index": 47,
+      "source_sha256": "210b412cdb635e4a9ffedc31e5c57080d6be479a7d7d702229718a868caabe4b",
+      "required_text": [
+        "(71)"
+      ]
+    },
+    {
+      "path": "science/model.md",
+      "index": 49,
+      "source_sha256": "b924f53b86fa3ce1f1276f3562ada125f4aebe3b68c1301c0d141feaadce7739",
+      "required_text": [
+        "(72)"
+      ]
+    }
+  ]
+}
