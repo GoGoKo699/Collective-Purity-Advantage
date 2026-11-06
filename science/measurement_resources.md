@@ -172,12 +172,12 @@ Use threshold $`t=\bar\mu/2`$, and give the sum of eigenvalue-estimation error a
 ```
 
 For $`n\ge n_0(\eta)`$, one has $`S\ge2`$ and
-$`\delta_{n,\eta}:=\operatorname{Var}_{\rm Haar}(\mu_\psi)/\bar\mu^2\le1/64`$.
+$`\delta_{n,\eta}:=\mathrm{Var}_{\rm Haar}(\mu_\psi)/\bar\mu^2\le1/64`$.
 The proven moment estimates then give, for $`m\ge CM`$,
 
 ```math
- \frac{\operatorname{Var}_0(U_m)}{\bar\mu^2}\le\frac6{C^2},\qquad
- \frac{\operatorname{Var}_1(U_m)}{\bar\mu^2}
+ \frac{\mathrm{Var}_0(U_m)}{\bar\mu^2}\le\frac6{C^2},\qquad
+ \frac{\mathrm{Var}_1(U_m)}{\bar\mu^2}
      \le\frac{24}{C^2}+\frac{64}{C}+\delta_{n,\eta}.
 ```
 
