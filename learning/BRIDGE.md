@@ -31,7 +31,7 @@ Several notation changes matter when moving from the book to the scientific page
 | Book notation or object | Project notation and interpretation |
 | --- | --- |
 | A complex Euclidean space $`\mathcal X`$ | One source register is $`(\mathbb C^2)^{\otimes n}`$; the received data register has $`mn`$ qubits. |
-| A unit vector $`u`$ and projector $`uu^*`$ | $`|u\rangle`$ and $`\psi=|u\rangle\langle u|`$. The prior is on the pure source, before noise. |
+| A unit vector $`u`$ and projector $`uu^*`$ | $`\lvert u\rangle`$ and $`\psi=\lvert u\rangle\langle u\rvert`$. The prior is on the pure source, before noise. |
 | The identity $`1_{\mathcal X}`$ and an operator adjoint $`A^*`$ | $`I`$ and $`A^\dagger`$. The star in $`\mathcal N_\eta^*`$ still denotes the adjoint **map** with respect to the Hilbert–Schmidt inner product. |
 | A measurement $`a\mapsto\mu(a)`$ | A binary effect $`E`$ means “choose the pure-source hypothesis”; its other effect is $`I-E`$. The scalar $`\mu_\psi`$ used later is an expectation value, not a POVM. |
 | A permutation operator $`W_\pi`$ | $`V_\pi`$ in the Haar formula. The unindexed $`W`$ in this project is instead the weighted two-copy observable. |
