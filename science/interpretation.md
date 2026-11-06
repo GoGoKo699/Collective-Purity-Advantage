@@ -17,15 +17,15 @@ W_a=\sum_{P\ne I}a_P P\otimes P.
 Under the null, Pauli orthogonality gives
 
 ```math
-\operatorname{Tr}(W_a\tau^{\otimes2})=0,
+\mathrm{Tr}(W_a\tau^{\otimes2})=0,
 \qquad
-\operatorname{Tr}(W_a^2\tau^{\otimes2})=\sum_{P\ne I}a_P^2.
+\mathrm{Tr}(W_a^2\tau^{\otimes2})=\sum_{P\ne I}a_P^2.
 ```
 
 Under the fixed Haar-source alternative, the averaged signal is
 
 ```math
-\mathbb E_\psi\operatorname{Tr}(W_a\sigma_\psi^{\otimes2})
+\mathbb E_\psi\mathrm{Tr}(W_a\sigma_\psi^{\otimes2})
 =\frac{1}{d+1}\sum_{P\ne I}a_P\lambda_P^2.
 ```
 
@@ -47,7 +47,7 @@ The same $`L`$ is the nonidentity Hilbert–Schmidt spectral weight of the round
 At the maximally mixed state, overlapping terms of the collective pair sum have zero covariance. The spectral variance is therefore
 
 ```math
-\operatorname{Var}_0(U_m)=\frac{L}{\binom m2}.
+\mathrm{Var}_0(U_m)=\frac{L}{\binom m2}.
 ```
 
 The standard deviation is proportional to $`\sqrt L/m`$, while the averaged signal is $`L/(d+1)`$. Their balance gives $`m\asymp d/\sqrt L`$. A protocol that measures fresh disjoint pairs obtains only linearly many independent pair outcomes; its elementary weighted-pair estimator instead needs order $`d^2/L`$ copies.

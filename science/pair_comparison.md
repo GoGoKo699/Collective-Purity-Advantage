@@ -17,21 +17,21 @@ This is exactly the spectral measurement of $`W`$. The signed factor for singlet
 Under the null and Haar alternative respectively,
 
 ```math
- \operatorname{Var}_0\overline Y=\frac Ar,\qquad
- \operatorname{Var}_1\overline Y
- \le\frac{2S}{r}+\operatorname{Var}_{\rm Haar}(\mu_\psi).
+ \mathrm{Var}_0\overline Y=\frac Ar,\qquad
+ \mathrm{Var}_1\overline Y
+ \le\frac{2S}{r}+\mathrm{Var}_{\rm Haar}(\mu_\psi).
 ```
 
 The second inequality uses the already-established pair second moment
-$`\mathbb E_\psi\operatorname{Tr}(W^2\sigma_\psi^{\otimes2})\le2S`$.
+$`\mathbb E_\psi\mathrm{Tr}(W^2\sigma_\psi^{\otimes2})\le2S`$.
 It does not assume that Haar-averaged pairs are independent. The extra variance term explicitly retains their shared unknown source.
 
 For $`r=C_2M^2`$,
 
 ```math
- \frac{\operatorname{Var}_0\overline Y}{\bar\mu^2}
+ \frac{\mathrm{Var}_0\overline Y}{\bar\mu^2}
  =\frac{d+1}{C_2d},\qquad
- \frac{\operatorname{Var}_1\overline Y}{\bar\mu^2}
+ \frac{\mathrm{Var}_1\overline Y}{\bar\mu^2}
  \le\frac{2S}{A}\frac{d+1}{C_2d}+\delta_{n,\eta}.
 ```
 

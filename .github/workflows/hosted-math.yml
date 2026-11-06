@@ -23,7 +23,7 @@ jobs:
         run: |
           npm install --prefix "$RUNNER_TEMP/purity-hosted-deps" playwright@1.56.1 mathjax-full@3.2.1
           "$RUNNER_TEMP/purity-hosted-deps/node_modules/.bin/playwright" install --with-deps chromium
-      - name: Capture representative source pages
+      - name: Capture every tracked Markdown page
         env:
           NODE_PATH: ${{ runner.temp }}/purity-hosted-deps/node_modules
         run: |
@@ -32,9 +32,7 @@ jobs:
             --repository "$GITHUB_REPOSITORY" \
             --revision "$SOURCE_REVISION" \
             --output "$RUNNER_TEMP/purity-hosted-evidence" \
-            --page README.md \
-            --page science/model.md \
-            --page science/measurement_resources.md
+            --contract verification/hosted/math-contract.json
       - name: Retain the report and actual captures
         if: always()
         uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02

@@ -14,6 +14,15 @@ A sharp source-testing theorem for a fixed Haar-random pure state versus the max
 - For prior methods and theorem attribution use references/RELATED_WORK.md and references/references.bib.
 - For direct finite checks use verification/README.md, verification/verify_moments.py and verification/expected_results.json.
 
+## Learning routes
+
+- The single educational anchor is John Watrous, The Theory of Quantum Information (Cambridge University Press, 2018), https://cs.uwaterloo.ca/~watrous/TQI/.
+- Start with learning/README.md for the structure of the learning route and learning/BRIDGE.md for the source-to-project translation and worked example.
+- Follow learning/MILESTONES.md for exactly 30 common understanding targets: M01–M11 build the background and full model; M12–M30 develop the measurement, its proof, the architecture comparison and the final synthesis.
+- For measurement intuition follow M12–M17 together with science/measurement_resources.md. For the matching statistical bounds follow M18–M25 with science/collective_measurement.md, science/haar_moments.md and science/collective_lower_bound.md.
+- Use M26–M30 and science/pair_comparison.md to distinguish exponential separation from the smaller regime with an exact quadratic relation.
+- Textbook foundations, project-specific derivations and imported research theorems are distinguished in learning/BRIDGE.md and references/RELATED_WORK.md.
+
 ## Essential distinctions
 
 One Haar state is drawn once and remains the source for all copies. Averaging each copy independently would erase the alternative entirely. The upper guarantee is Haar-average, not worst-case over every pure source. Two-copy strategies can use arbitrary classical adaptation but retain no quantum state across rounds. The adaptive-pair lower bound is imported from its full learning-tree theorem, not inferred from the two-copy marginal. Noncommuting pair kernels are measured through their Hermitian sum. The collective input and protected memory are exponential at fixed noise; the result concerns sample complexity rather than a computational speedup.

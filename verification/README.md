@@ -27,4 +27,6 @@ There is no Monte Carlo sampling. The direct matrix construction is independent 
 
 ## What establishes the general result
 
+The separate [hosted-mathematics check](hosted/README.md) compares pinned source equations with actual GitHub rendering and saves screenshots for visual inspection. It complements these numerical checks; neither kind of check replaces a proof.
+
 The all-dimension converse, finite-error upper theorem and asymptotic rate are proved in the [scientific account](../science/README.md). Small matrices do not establish those universal claims. The [resource construction](../science/measurement_resources.md) and the imported adaptive-pair lower bound are separate analytical arguments. No claim of experimental implementation or independent external replication is made.
