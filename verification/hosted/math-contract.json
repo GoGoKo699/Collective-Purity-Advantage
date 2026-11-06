@@ -118,7 +118,7 @@
     {
       "path": "science/collective_lower_bound.md",
       "index": 39,
-      "source_sha256": "425c2bf0a65ae4b13e1270b02cea69b8af653cbd25a6329d5343394c54102882",
+      "source_sha256": "e5bdb48c93c6281fab0c38fbfd446f1b94f23360b23cfac1ff0ca3ee231d9540",
       "required_text": [
         "(29)"
       ]
@@ -134,7 +134,7 @@
     {
       "path": "science/collective_lower_bound.md",
       "index": 42,
-      "source_sha256": "9af4f04220f860f2efc4fef1431a2cc43486e8a392bcd8ef213019de343e877a",
+      "source_sha256": "74d4172db53096dd771e6fdccbb7d27ef112d81223e5fe137f8b5338f12e3143",
       "required_text": [
         "(31)"
       ]
@@ -512,7 +512,7 @@
     {
       "path": "science/model.md",
       "index": 22,
-      "source_sha256": "e3ecd6be21e0d0ce2d8eadeae48dd37fcf0839d4f42c33f15002701668b7eaae",
+      "source_sha256": "dc65049a28d8804d7f3ac8c4501b75d05792549d77f02c1f921ed4ed2df894e9",
       "required_text": [
         "(3)"
       ]
@@ -536,7 +536,7 @@
     {
       "path": "science/model.md",
       "index": 27,
-      "source_sha256": "fe2882343fb0dbadf8a019b42f48e35ed9dc74fd1229f074d3658188027be171",
+      "source_sha256": "a88c87d18d87f0933092407662f3a1332a278ac2fcd13b98cc1fc26806debd8e",
       "required_text": [
         "(6)"
       ]
@@ -576,7 +576,7 @@
     {
       "path": "science/model.md",
       "index": 38,
-      "source_sha256": "91ecd92919f73d4e7ae4cd59ee3192eb248c8bbdf340e82643ee1e9a503f4bbf",
+      "source_sha256": "320a595b8331426abd74eb25623f8842822348c82f16f03d4946cb340dd178b6",
       "required_text": [
         "(70)"
       ]

@@ -234,7 +234,7 @@ At the null state, Pauli orthogonality makes the covariance of distinct pair ter
 The standard deviation decreases as $`\sqrt L/m`$, while the average alternative signal is $`L/(d+1)`$. Balancing them suggests the scale
 
 ```math
-t_{n,\eta}=\sqrt{\frac{d(d+1)}{L}}.
+t_{n,\eta}=\sqrt{d(d+1)/L}.
 ```
 
 This balance is only the beginning of the proof. Under the alternative, two pair terms can share a received sample. Their expectation requires a three-copy Haar contraction. In addition, the conditional signal $`\mu_\psi`$ varies with the one hidden source. Averaging more measurement outcomes does not remove this source variation. The relevant variance is

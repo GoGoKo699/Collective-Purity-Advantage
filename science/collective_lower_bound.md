@@ -139,7 +139,7 @@ $`D(\rho,\sigma)=\frac12\|\rho-\sigma\|_1`$, Cauchy–Schwarz gives
 
 ```math
 D(\Omega_{G,m},\tau^{\otimes m})
-\leq\frac12\sqrt{\frac{11}{45}}.
+\leq\frac12\sqrt{11/45}.
 \qquad\text{(29)}
 ```
 
@@ -157,7 +157,7 @@ The triangle inequality and the binary discrimination formula now give
 \begin{aligned}
 R_m^*
 &=\frac12\big[1-D(\Omega_{1,m},\tau^{\otimes m})\big]\\
-&\geq\frac{15}{32}-\frac14\sqrt{\frac{11}{45}}
+&\geq\frac{15}{32}-\frac14\sqrt{11/45}
 \gt \frac13.
 \end{aligned}
 \qquad\text{(31)}

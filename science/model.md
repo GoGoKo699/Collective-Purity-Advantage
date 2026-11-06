@@ -42,7 +42,7 @@ Define
 ```math
 s=1+3\eta^4,\qquad S=s^n,\qquad L=S-1,
 \qquad
-t_{n,\eta}=\sqrt{\frac{d(d+1)}{L}},
+t_{n,\eta}=\sqrt{d(d+1)/L},
 \qquad\text{(3)}
 ```
 
@@ -75,7 +75,7 @@ then every collective measurement has equal-prior error
 
 ```math
 R_m^*\geq
-\frac{15}{32}-\frac14\sqrt{\frac{11}{45}}
+\frac{15}{32}-\frac14\sqrt{11/45}
 \gt \frac13.
 \qquad\text{(6)}
 ```
@@ -133,7 +133,7 @@ For fixed $`0\lt \eta\lt 1`$, the exact scale in (3) is
 ```math
 t_{n,\eta}
 =\left[\frac{2}{\sqrt{1+3\eta^4}}\right]^n
-\sqrt{\frac{1+2^{-n}}{1-(1+3\eta^4)^{-n}}}.
+\sqrt{(1+2^{-n})/[1-(1+3\eta^4)^{-n}]}.
 \qquad\text{(70)}
 ```
 

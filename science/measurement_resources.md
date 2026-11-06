@@ -6,7 +6,7 @@ Let $`d=2^n`$, let $`0\lt \eta\lt 1`$ be fixed and known, and use $`M=t_{n,\eta}
 
 ```math
  S=(1+3\eta^4)^n,\qquad A=S-1,\qquad
- M=\sqrt{\frac{d(d+1)}{A}},\qquad
+ M=\sqrt{d(d+1)/A},\qquad
  \bar\mu=\frac{A}{d+1}=\frac d{M^2}.
 ```
 
