@@ -50,7 +50,7 @@ At the maximally mixed state, overlapping terms of the collective pair sum have 
 \mathrm{Var}_0(U_m)=\frac{L}{\binom m2}.
 ```
 
-The standard deviation is proportional to $`\sqrt L/m`$, while the averaged signal is $`L/(d+1)`$. Their balance gives $`m\asymp d/\sqrt L`$. A protocol that measures fresh disjoint pairs obtains only linearly many independent pair outcomes; its elementary weighted-pair estimator instead needs order $`d^2/L`$ copies.
+The standard deviation is proportional to $`\sqrt L/m`$, while the averaged signal is $`L/(d+1)`$. Their balance gives $`m\asymp d/\sqrt L`$. Conditioned on the fixed source, fresh disjoint pairs give only linearly many independent outcomes. Averaging the displayed weighted statistic gives the proved $`O_\eta(d^2/L)`$ copy upper bound.
 
 This comparison of explicit estimators is supplemented by the cited adaptive two-copy lower bound in [Pair measurements](pair_comparison.md). That theorem is needed to cover every adaptive pair strategy. A small chi-square divergence of a single averaged pair is insufficient, because all rounds share the same unknown source.
 
