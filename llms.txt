@@ -1,0 +1,21 @@
+# Collective Purity Advantage
+
+A sharp source-testing theorem for a fixed Haar-random pure state versus the maximally mixed state after known local depolarizing acquisition noise. The optimal collective copy count is Theta_eta([2/sqrt(1+3 eta^4)]^n). Combining it with the existing adaptive-pair lower bound produces an exponential sample separation for eta>3^(-1/4), and an exact quadratic relation in the weaker-noise regime specified in the pair comparison.
+
+## Scientific routes
+
+- Start with README.md and science/model.md for the exact prior, channel, error criterion and theorem.
+- For the full account follow science/README.md.
+- For the converse read science/collective_lower_bound.md and the Haar identity in science/haar_moments.md.
+- For the construction read science/collective_measurement.md; its dimension-dependent moments are proved in science/haar_moments.md.
+- For gate, memory, precision and access costs read science/measurement_resources.md.
+- For the measurement architecture consequence read science/pair_comparison.md.
+- For the mechanism, matched weights and physical scope read science/interpretation.md.
+- For prior methods and theorem attribution use references/RELATED_WORK.md and references/references.bib.
+- For direct finite checks use verification/README.md, verification/verify_moments.py and verification/expected_results.json.
+
+## Essential distinctions
+
+One Haar state is drawn once and remains the source for all copies. Averaging each copy independently would erase the alternative entirely. The upper guarantee is Haar-average, not worst-case over every pure source. Two-copy strategies can use arbitrary classical adaptation but retain no quantum state across rounds. The adaptive-pair lower bound is imported from its full learning-tree theorem, not inferred from the two-copy marginal. Noncommuting pair kernels are measured through their Hermitian sum. The collective input and protected memory are exponential at fixed noise; the result concerns sample complexity rather than a computational speedup.
+
+Current proofs live in science/ by topic. Finite tests support their tested formulas and are not substitutes for the analytical results.

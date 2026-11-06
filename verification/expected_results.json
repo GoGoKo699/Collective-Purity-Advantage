@@ -1,0 +1,108 @@
+{
+  "third_moment_checks": [
+    {
+      "n": 2,
+      "m": 3,
+      "eta": 0.3,
+      "expected": {
+        "mean": 0.009838097999999995,
+        "pair_second_moment": 0.04802575853519993,
+        "overlap": 0.0009687751450559704,
+        "u_second_moment": 0.016654436275103955
+      },
+      "observed": {
+        "mean": 0.009838097999999997,
+        "pair_second_moment": 0.04802575853519997,
+        "overlap": 0.0009687751450559994,
+        "u_second_moment": 0.016654436275103986
+      },
+      "max_abs_error": 4.163336342344337e-17,
+      "max_imaginary_part": 0.0
+    },
+    {
+      "n": 2,
+      "m": 3,
+      "eta": 0.9,
+      "expected": {
+        "mean": 1.5621609780000003,
+        "pair_second_moment": 5.686430714503201,
+        "overlap": 3.0485342928248635,
+        "u_second_moment": 3.9278331000509765
+      },
+      "observed": {
+        "mean": 1.562160978,
+        "pair_second_moment": 5.686430714503199,
+        "overlap": 3.048534292824865,
+        "u_second_moment": 3.927833100050976
+      },
+      "max_abs_error": 1.7763568394002505e-15,
+      "max_imaginary_part": 0.0
+    }
+  ],
+  "fourth_moment_checks": [
+    {
+      "n": 1,
+      "eta": 0.0,
+      "signal_second_moment_observed": 0.0,
+      "signal_second_moment_formula": 0.0,
+      "signal_variance_formula": 0.0,
+      "max_abs_error": 0.0
+    },
+    {
+      "n": 1,
+      "eta": 0.3,
+      "signal_second_moment_observed": 6.561e-05,
+      "signal_second_moment_formula": 6.560999999999746e-05,
+      "signal_variance_formula": -2.960594732333751e-17,
+      "max_abs_error": 2.967370995911785e-17
+    },
+    {
+      "n": 1,
+      "eta": 0.9,
+      "signal_second_moment_observed": 0.4304672100000002,
+      "signal_second_moment_formula": 0.43046721000000004,
+      "signal_variance_formula": 1.973729821555834e-17,
+      "max_abs_error": 1.6653345369377348e-16
+    },
+    {
+      "n": 1,
+      "eta": 1.0,
+      "signal_second_moment_observed": 1.0,
+      "signal_second_moment_formula": 1.0,
+      "signal_variance_formula": 0.0,
+      "max_abs_error": 0.0
+    },
+    {
+      "n": 2,
+      "eta": 0.0,
+      "signal_second_moment_observed": 0.0,
+      "signal_second_moment_formula": 0.0,
+      "signal_variance_formula": 0.0,
+      "max_abs_error": 0.0
+    },
+    {
+      "n": 2,
+      "eta": 0.3,
+      "signal_second_moment_observed": 0.00011449370533338003,
+      "signal_second_moment_formula": 0.0001144937053333768,
+      "signal_variance_formula": 1.7705533075777728e-05,
+      "max_abs_error": 3.2255014631443757e-18
+    },
+    {
+      "n": 2,
+      "eta": 0.9,
+      "signal_second_moment_observed": 2.454310849667705,
+      "signal_second_moment_formula": 2.4543108496677055,
+      "signal_variance_formula": 0.01396392848178764,
+      "max_abs_error": 4.440892098500626e-16
+    },
+    {
+      "n": 2,
+      "eta": 1.0,
+      "signal_second_moment_observed": 9.0,
+      "signal_second_moment_formula": 9.0,
+      "signal_variance_formula": 0.0,
+      "max_abs_error": 0.0
+    }
+  ]
+}
